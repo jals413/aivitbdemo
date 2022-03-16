@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aivitbdemo/static/css/main.3323913c.css",
+    "main.js": "/aivitbdemo/static/js/main.e4b271e0.js",
+    "static/media/bgimg.gif": "/aivitbdemo/static/media/bgimg.21883f30a357a540d6be.gif",
+    "index.html": "/aivitbdemo/index.html",
+    "main.3323913c.css.map": "/aivitbdemo/static/css/main.3323913c.css.map",
+    "main.e4b271e0.js.map": "/aivitbdemo/static/js/main.e4b271e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3323913c.css",
+    "static/js/main.e4b271e0.js"
+  ]
+}
